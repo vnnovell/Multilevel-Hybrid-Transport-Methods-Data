@@ -18,6 +18,8 @@ Region 1 is $x \in [0,0.25]$, region 2 is $x \in [0.25,0.75]$, and region 3 is $
 | 3      | $[10, 12]$ | 5.0            | 4.0            | 0.0     |
 | 4      | $[12, 20]$ | 1.0            | 0.8            | 0.0     |
 
+## Test 5
+Test 5 is a diffusion type test, where the domain is a $X = 1$ cm long slab with $\Sigma_t(x) = 100.0$, $\Sigma_a = 10^{-2}$, and $q(x) = 10^{-2}$ for all $x \in [0,1]$
 # MLMC Results Description
 The data file contains MLMC-FE method run data showing results from 10 independent runs of the MLMC-FE-LOQD and MLMC-FE-LD-LOQD algorithms for Tests 1-3, and 1 run for Test 4.
 There are also results for the time optimization algorithm presented for Tests 1 and 3, using the average runtime of the original MLMC algorithm. 
