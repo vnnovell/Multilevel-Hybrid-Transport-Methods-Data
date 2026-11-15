@@ -2,6 +2,7 @@
 This repository contains supplemental data for the dissertation "Multilevel Hybrid Deterministic/Monte Carlo Methods for Neutral Particle Transport".
 # Computational Test Descriptions 
 Let $c = \frac{\Sigma_t}{\Sigma_s}$ be the scattering ratio.
+Each test has vacuum boundary conditions.
 ## Test 1 
 The problem domain is a $X = 1$ cm long slab with $\Sigma_t(x) = 1.0$, $c = 0.9$, and $q(x) = 1.0$ for all $x \in [0,1]$.
 ## Test 2
